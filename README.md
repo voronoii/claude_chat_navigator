@@ -1,6 +1,8 @@
 # Claude Chat Navigator
 
-<img src="img/example.png" alt="Claude Chat Navigator 예시" width="70%">
+<p align="center">
+  <img src="img/example.png" alt="Claude Chat Navigator 예시" width="70%">
+</p>
 
 Claude.ai에서 긴 대화를 나누다 보면 이전에 어떤 이야기를 했는지 찾기가 어렵습니다. 이 불편함을 해결하고 싶어서 직접 만든 Chrome 확장프로그램입니다. 비슷한 도구가 이미 있을 수 있지만 직접 만들어보면 어떨까? 하는 호기심으로 시작한 프로젝트입니다.
 
